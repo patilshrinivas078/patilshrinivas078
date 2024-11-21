@@ -1,5 +1,5 @@
 # About Me:
-🎓 AI & Data Science Student | 🌸 Japanese Language Enthusiast<br><br><br>✨ What excites me:<br>Designing solutions that simplify communication and enhance understanding.<br>Exploring the vast potential of NLP to connect people and technology.<br><br>💻 What I’m working on:<br>RAG-driven projects focused on intelligent, knowledge-based applications.<br><br>⚡Fun Fact: I’m training AI to recognize doodles, so if you draw a giraffe that looks like a banana, don’t worry—I’ve got you covered!
+🎓 AI & Data Science Student | 🌸 Japanese Language Enthusiast<br><br><br>✨ What excites me:<br>Designing solutions that simplify communication and enhance understanding.<br>Exploring the vast potential of NLP to connect people and technology.<br><br>💻 What I’m working on:<br>RAG-driven projects focused on intelligent, knowledge-based applications.<br><br>⚡Fun Fact: I’m training a model to recognize doodles, so if you draw a giraffe that looks like a banana, don’t worry—I’ve got you covered!
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=patilshrinivas078&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
